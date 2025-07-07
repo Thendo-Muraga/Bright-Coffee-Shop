@@ -28,5 +28,14 @@ ___
 
 ### Revenue Analysis
 
-*More units are sold in the morning compared to Afternoon and Evening.
-*Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor
+- More units are sold in the morning compared to Afternoon and Evening.
+
+- Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor.
+- Month to Month Revenue Growth:
+- - Jan: 
+  - Feb: -6%
+  - Mar: 27%
+  - Apr: 15%
+  - May: 25%
+  - Jun: 2%
+- Revenue peaks from 7AM  to 10AM in the morning.
