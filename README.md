@@ -47,3 +47,4 @@ ___
 ### Customer behavior per location
 - Astoria attracts more high spenders
 ___
+## **Recommendation**
