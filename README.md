@@ -46,7 +46,7 @@ ___
 ### Customer behavior per location
 - Astoria attracts more high spenders
 ___
-## **Recommendation**
+## **💡 Recommendation**
 - Introduce savoury treats paired with high performing products to rapidly increase sales.
-- Rewards benefits from customers that come after 10AM UNTIL 20PM
+- Rewards benefits from customers that come after 10AM UNTIL 20PM.
 - Introduce buy  two get one free on low performing products.
