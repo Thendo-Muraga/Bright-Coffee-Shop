@@ -43,8 +43,10 @@ ___
 ### Product Performance
 - Brewed Chai Tea , Gourmet brewed coffee and Barista Espresso are the highest generating products.
 - House blend beans, green tea and green beans are the lowest performing  products.
-
 ### Customer behavior per location
 - Astoria attracts more high spenders
 ___
 ## **Recommendation**
+- Introduce savoury treats paired with high performing products to rapidly increase sales.
+- Rewards benefits from customers that come after 10AM UNTIL 20PM
+- Introduce buy  two get one free on low performing products.
