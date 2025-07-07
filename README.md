@@ -1,6 +1,6 @@
 # Bright-Coffee-Shop
 
-##PROJECT DESCRIPTION
+## **PROJECT DESCRIPTION**
 
 **📝 Project Overview**
 
