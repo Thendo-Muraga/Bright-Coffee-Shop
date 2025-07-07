@@ -41,9 +41,9 @@ ___
 - Revenue peaks from 7AM  to 10AM in the morning.
 
 ### Product Performance
--Brewed Chai Tea , Gourmet brewed coffee and Barista Espresso are the highest generating products.
--House blend beans, green tea and green beans are the lowest performing  products.
+- Brewed Chai Tea , Gourmet brewed coffee and Barista Espresso are the highest generating products.
+- House blend beans, green tea and green beans are the lowest performing  products.
 
 ### Customer behavior per location
-Astoria attracts more high spenders
+- Astoria attracts more high spenders
 ___
