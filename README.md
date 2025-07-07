@@ -1,5 +1,7 @@
 # Bright-Coffee-Shop
 
+##PROJECT DESCRIPTION
+
 **📝 Project Overview**
 
 This project presents a sales analysis for Bright Coffee Shop, aimed at supporting the newly appointed CEO in making data-driven decisions to increase revenue and optimize product performance.
@@ -22,9 +24,9 @@ Data Visualization: Microsoft Excel (Pivot Tables & Charts)
 ETL Planning & Architecture: Miro
 Presentation: Canva
 ___
-**📊 Summary of Findings**
+## **📊 Summary of Findings**
 
-## Revenue Analysis##
+### Revenue Analysis
 
 *More units are sold in the morning compared to Afternoon and Evening.
 *Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor
