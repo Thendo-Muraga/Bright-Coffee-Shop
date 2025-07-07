@@ -21,3 +21,4 @@ SQL Platform: Snowflake
 Data Visualization: Microsoft Excel (Pivot Tables & Charts)
 ETL Planning & Architecture: Miro
 Presentation: Canva
+___
