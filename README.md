@@ -23,5 +23,8 @@ ETL Planning & Architecture: Miro
 Presentation: Canva
 ___
 **📊 Summary of Findings**
-More units are sold in the morning compared to Afternoon and Evening.
-Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor
+
+## Revenue Analysis##
+
+*More units are sold in the morning compared to Afternoon and Evening.
+*Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor
