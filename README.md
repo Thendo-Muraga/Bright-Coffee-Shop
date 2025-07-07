@@ -1,5 +1,8 @@
 # Bright-Coffee-Shop
 
+Project Overview
+This project presents a sales analysis for Bright Coffee Shop, aimed at supporting the newly appointed CEO in making data-driven decisions to increase revenue and optimize product performance.
+
 The Aim is to:
 
 To analyze the historical transactional data from Bright Coffee Shop to extract actionable insights that support the new CEO’s mission of increasing revenue and improving product performance.
