@@ -1,11 +1,11 @@
 SELECT store_location,product_detail,product_type,
 
---AGGERATED
+--AGGERATED Functions
     COUNT(transaction_id) AS number_of_transcation,
     SUM(transaction_id*unit_price) AS total_revenue,
     SUM(transaction_qty) AS number_of_unit_sold,
 
---DATES 
+--DATES Functions
     TO_DATE (transaction_date) AS purchase_date, 
     TO_CHAR(TO_DATE(transaction_date), 'YYYYMM')AS month_id, 
     DAYNAME(TO_DATE(transaction_date)) AS day_of_week,
