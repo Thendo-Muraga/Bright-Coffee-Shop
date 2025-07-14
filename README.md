@@ -19,10 +19,10 @@ Provide data-driven recommendations to enhance sales and operational efficiency.
 
 **🛠️ Tools Used**
 
-SQL Platform: Snowflake
-Data Visualization: Microsoft Excel (Pivot Tables & Charts)
-ETL Planning & Architecture: Miro
-Presentation: Canva
+- SQL Platform: Snowflake
+- Data Visualization: Microsoft Excel (Pivot Tables & Charts)
+- ETL Planning & Architecture: Miro
+- Presentation: Canva
 ___
 ## **📊 Summary of Findings**
 
