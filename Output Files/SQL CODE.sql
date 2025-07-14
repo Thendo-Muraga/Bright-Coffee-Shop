@@ -34,8 +34,8 @@ CASE
     CASE
     
     WHEN MONTH(transaction_date) IN (12, 1, 2) THEN 'Summer'
-    WHEN MONTH(transaction_date) IN (6, 7, 8) THEN 'Winter'
     WHEN MONTH(transaction_date) IN (3, 4, 5) THEN 'Autumn'
+    WHEN MONTH(transaction_date) IN (6, 7, 8) THEN 'Winter'
     ELSE 'Spring'
     END AS year_seasons,
     
