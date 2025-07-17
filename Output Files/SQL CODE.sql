@@ -1,4 +1,4 @@
-SELECT store_location,product_detail,product_type,
+SELECT store_location,product_detail,product_type,product_category,
 
 --AGGERATED
     COUNT(transaction_id) AS number_of_sales,
@@ -34,8 +34,8 @@ CASE
     CASE
     
     WHEN MONTH(transaction_date) IN (12, 1, 2) THEN 'Summer'
-    WHEN MONTH(transaction_date) IN (3, 4, 5) THEN 'Autumn'
     WHEN MONTH(transaction_date) IN (6, 7, 8) THEN 'Winter'
+    WHEN MONTH(transaction_date) IN (3, 4, 5) THEN 'Autumn'
     ELSE 'Spring'
     END AS year_seasons,
     
@@ -46,13 +46,14 @@ GROUP BY
 store_location,
 product_detail,
 product_type,
+product_category,
 transaction_date,
 time_bucket,
 week_bucket,
 purchase_date,
 month_id,
 day_of_week,
-hour_of_day
+hour_of_day;
 
 --ORDERING BY
-ORDER BY number_of_sales DESC; 
+ORDER BY number_of_sales DESC
