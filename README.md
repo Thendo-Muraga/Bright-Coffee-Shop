@@ -39,8 +39,8 @@ ___
 - The majority of customers across all locations fall into the low-spending category (around 26–27%), while medium spenders make up a smaller but notable share.
 ___
 ## **💡 Recommendation**
-- Introduce savoury treats paired with high performing products to rapidly increase sales.
+- Pair bakery products with high performing drinking products to rapidly increase sales.
    - Gourmet Brewed Coffee + Chocolate croissant 
-- Rewards benefits from customers that come after 10AM UNTIL 20PM
-   - Buy 3 or more drinks between 12pm to 8pm and get a free Latte
+- Boost Off-Peak Traffic Sales
+   - Buy 3 or more drinks between 11am to 8pm and get a free Latte
   
