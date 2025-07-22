@@ -26,8 +26,8 @@ CASE
     END AS week_bucket,
 
     CASE
-    WHEN SUM(transaction_qty*unit_price) BETWEEN 0 AND 120 THEN 'Low'
-    WHEN SUM(transaction_qty*unit_price) BETWEEN 121 AND 240 THEN 'Medium'
+    WHEN SUM(transaction_qty*unit_price) BETWEEN 0 AND 10 THEN 'Low'
+    WHEN SUM(transaction_qty*unit_price) BETWEEN 11 AND 30 THEN 'Medium'
     ELSE 'High'
     END AS spender_bucket,
 
@@ -37,7 +37,7 @@ CASE
     WHEN MONTH(transaction_date) IN (6, 7, 8) THEN 'Winter'
     WHEN MONTH(transaction_date) IN (3, 4, 5) THEN 'Autumn'
     ELSE 'Spring'
-    END AS year_seasons,
+    END AS year_seasons
     
 FROM transcation.sales.coffee_shop
 
