@@ -40,7 +40,7 @@ ___
 ___
 ## **💡 Recommendation**
 - Introduce savoury treats paired with high performing products to rapidly increase sales.
-  -- Gourmet Brewed Coffee + Chocolate croissant 
+   - Gourmet Brewed Coffee + Chocolate croissant 
 - Rewards benefits from customers that come after 10AM UNTIL 20PM
-  -- Buy 3 or more drinks between 12pm to 8pm and get a free Latte
+   - Buy 3 or more drinks between 12pm to 8pm and get a free Latte
   
