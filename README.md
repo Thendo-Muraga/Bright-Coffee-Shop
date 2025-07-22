@@ -24,20 +24,23 @@ ___
 
 ### Revenue Analysis
 
-- More units are sold in the morning compared to Afternoon and Evening.
+- Morning has highest revenue across all stores with total 66.45%.
 
-- Mondays and Thurdays generate the highest revenue, with Hell's Kitchen the highest contributor.
-- Month to Month Revenue Growth Rate:
+- Revenue steadily increases month over month, with the highest contributions in May (21%) and June (22%).
+
+- Weekday sales account for the majority of revenue (72%), while Weekends contribute 28%.
  
 - Revenue peaks from 7AM  to 10AM in the morning.
 
 ### Product Performance
-- Brewed Chai Tea , Gourmet brewed coffee and Barista Espresso are the highest generating products.
-- House blend beans, green tea and green beans are the lowest performing  products.
+- Brewed Chai Tea , Gourmet brewed coffee and Barista Espresso are the highest generating products accounts for over 80% of total revenue .
+
 ### Customer behavior per location
-- Astoria attracts more high spenders
+- The majority of customers across all locations fall into the low-spending category (around 26–27%), while medium spenders make up a smaller but notable share.
 ___
 ## **💡 Recommendation**
 - Introduce savoury treats paired with high performing products to rapidly increase sales.
-- Rewards benefits from customers that come after 10AM UNTIL 20PM.
-- Introduce buy  two get one free on low performing products.
+  -- Gourmet Brewed Coffee + Chocolate croissant 
+- Rewards benefits from customers that come after 10AM UNTIL 20PM
+  -- Buy 3 or more drinks between 12pm to 8pm and get a free Latte
+  
